@@ -1,0 +1,7 @@
+[{
+    "name": "Overseer Print Guard", 
+    "author": "Overseer",
+    "description": "3D printing failure detection using the Print Guard ML model by Oliver Bravery.",
+    "githubRepository": "GPL-2.0",
+    "license": "https://github.com/OverseerApp/overseer.print-guard"
+}]
