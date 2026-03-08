@@ -16,4 +16,10 @@
     "description": "RepRapFirmware integration for Overseer.",
     "license": "AGPL-3.0",
     "githubRepository": "https://github.com/OverseerApp/overseer.reprapfirmware"
+}, {
+    "name": "ELEGOO",
+    "author": "Overseer",
+    "description": "ELEGOO integration for Overseer.",
+    "license": "AGPL-3.0",
+    "githubRepository": "https://github.com/OverseerApp/overseer.elegoo"
 }]
