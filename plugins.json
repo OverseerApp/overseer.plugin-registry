@@ -1,5 +1,5 @@
 [{
-    "name": "Overseer Print Guard", 
+    "name": "Print Guard", 
     "author": "Overseer",
     "description": "3D printing failure detection using the Print Guard ML model by Oliver Bravery.",
     "license": "GPL-2.0",
@@ -10,4 +10,10 @@
     "description": "OctoPrint integration for Overseer.",
     "license": "AGPL-3.0",
     "githubRepository": "https://github.com/OverseerApp/overseer.octoprint"
+}, {
+    "name": "RepRapFirmware",
+    "author": "Overseer",
+    "description": "RepRapFirmware integration for Overseer.",
+    "license": "AGPL-3.0",
+    "githubRepository": "https://github.com/OverseerApp/overseer.reprapfirmware"
 }]
