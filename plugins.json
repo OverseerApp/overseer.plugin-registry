@@ -22,4 +22,16 @@
     "description": "ELEGOO integration for Overseer.",
     "license": "AGPL-3.0",
     "githubRepository": "https://github.com/OverseerApp/overseer.elegoo"
+}, {
+    "name": "BambuLab",
+    "author": "Overseer",
+    "description": "BambuLab integration for Overseer.",
+    "license": "AGPL-3.0",
+    "githubRepository": "https://github.com/OverseerApp/overseer.bambu-lab"
+}, {
+    "name": "Moonraker",
+    "author": "Overseer",
+    "description": "Moonraker integration for Overseer.",
+    "license": "AGPL-3.0",
+    "githubRepository": "https://github.com/OverseerApp/overseer.moonraker"
 }]
